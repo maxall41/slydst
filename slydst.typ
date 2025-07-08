@@ -40,7 +40,7 @@
 
   // Setup
   if title != none {
-    set document(title: title, author: authors)
+    set document(title: title)
   }
   set page(
     width: width,
